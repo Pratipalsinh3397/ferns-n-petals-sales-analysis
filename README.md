@@ -27,7 +27,7 @@ The dashboard answers the following business questions:
 
 # 📊 Dashboard Preview
 
-<img width="100%" alt="FNP Dashboard" src="YOUR_IMAGE_LINK_HERE">
+<img width="100%" alt="FNP Dashboard" src="fnp-sales-analysis-dashboard.png">
 
 ---
 
